@@ -1,9 +1,9 @@
 # 👨‍💻 iunoo – DevOps
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iunoo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iunoo&layout=compact&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=iunoo&color=blueviolet)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iunoo)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iunox&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iunox&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=iunox&color=blueviolet)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iunox)
 
 ---
 
@@ -38,13 +38,13 @@ Halo! Saya **iunoo**, seorang DevOps yang gemar membangun alat bantu otomatisasi
 
 | # | Project | Deskripsi Singkat | Link |
 |---|---------|-------------------|------|
-| 1 | **Renamerged** | Rename otomatis faktur pajak keluaran berdasar nama dalam PDF. | [GitHub](https://github.com/iunoo/renamerged) |
-| 2 | **Bot Cek Stok** | Bot Telegram untuk cek stok internal perusahaan. | [GitHub](https://github.com/iunoo/bot-CekStok) |
-| 3 | **Corestress** | Konversi file raw ke format Coretax. | [GitHub](https://github.com/iunoo/Corestress) |
+| 1 | **Renamerged** | Rename otomatis faktur pajak keluaran berdasar nama dalam PDF. | [GitHub](https://github.com/iunox/renamerged) |
+| 2 | **Bot Cek Stok** | Bot Telegram untuk cek stok internal perusahaan. | [GitHub](https://github.com/iunox/bot-CekStok) |
+| 3 | **Corestress** | Konversi file raw ke format Coretax. | [GitHub](https://github.com/iunox/Corestress) |
 | 4 | **Corestress V2** | Versi lanjutan dengan spreadsheet, tanpa DB lokal. | Belum dirilis |
 | 5 | **Excel to XML Coretax** | Konversi Excel ke format XML untuk Coretax. | Belum dirilis |
-| 6 | **Auto Input KTP/NPWP** | Upload otomatis foto KTP/NPWP ke Drive + spreadsheet. | [GitHub](https://github.com/iunoo/bot-AutoInputKTPNPWP) |
-| 7 | **TikTok Downloader Bot** | Unduh video TikTok tanpa watermark + audio terpisah. | [GitHub](https://github.com/iunoo/Tiktok_Downloader) |
+| 6 | **Auto Input KTP/NPWP** | Upload otomatis foto KTP/NPWP ke Drive + spreadsheet. | [GitHub](https://github.com/iunox/bot-AutoInputKTPNPWP) |
+| 7 | **TikTok Downloader Bot** | Unduh video TikTok tanpa watermark + audio terpisah. | [GitHub](https://github.com/iunox/Tiktok_Downloader) |
 
 ---
 
