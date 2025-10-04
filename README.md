@@ -1,9 +1,9 @@
 # 👨‍💻 iunoo – DevOps
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iunox&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iunox&layout=compact&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=iunox&color=blueviolet)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iunox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iunoxid&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iunoxid&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=iunoxid&color=blueviolet)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iunoxid)
 
 ---
 
