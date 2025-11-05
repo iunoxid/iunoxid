@@ -9,7 +9,7 @@
 
 ## 👋 Tentang Saya
 
-Halo! Saya **iunoo**, seorang DevOps yang gemar membangun alat bantu otomatisasi menggunakan **JavaScript** dan **Python**. Fokus utama saya adalah membuat hidup (dan pekerjaan) jadi lebih praktis dan efisien.
+Halo! Saya **enomoto**, seorang DevOps yang gemar membangun alat bantu otomatisasi menggunakan **JavaScript** dan **Python**. Fokus utama saya adalah membuat hidup (dan pekerjaan) jadi lebih praktis dan efisien.
 
 🧠 **Spesialisasi:**
 - Otomatisasi via Google Apps Script (spreadsheet, drive, form)
