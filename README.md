@@ -50,8 +50,8 @@ Halo! Saya **enomoto**, seorang DevOps yang gemar membangun alat bantu otomatisa
 
 ## 🌟 Statistik & Aktivitas
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=iunoo&theme=tokyonight&hide_border=false)
-![Trophies](https://github-profile-trophy.vercel.app/?username=iunoo&theme=tokyonight&row=1&no-frame=true&margin-w=10)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=iunoxid&theme=tokyonight&hide_border=false)
+![Trophies](https://github-profile-trophy.vercel.app/?username=iunoxid&theme=tokyonight&row=1&no-frame=true&margin-w=10)
 
 ---
 
